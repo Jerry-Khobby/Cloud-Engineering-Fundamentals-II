@@ -101,7 +101,7 @@ Current operations rely on manual tasks with no centralized monitoring or alerti
   * Monitor with AWS Cost Explorer
 
 **Architecture Diagram:**
-*(You would create this in draw.io / Lucidchart based on above description; diagram shows multi-AZ EC2, ELB, RDS, S3, CloudFront, monitoring & security layers.)*
+[Architecture](./architecture_diagram.png)
 
 ---
 
