@@ -101,7 +101,7 @@ Current operations rely on manual tasks with no centralized monitoring or alerti
   * Monitor with AWS Cost Explorer
 
 **Architecture Diagram:**
-[Architecture](./architecture_diagram.png)
+![Architecture](./architecture_diagram_two.png)
 
 ---
 
